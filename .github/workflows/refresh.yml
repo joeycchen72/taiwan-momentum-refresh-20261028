@@ -1,0 +1,29 @@
+name: Refresh public market research
+on:
+  schedule:
+    - cron: '0,30 * * * *'
+    - cron: '10,20,40,50 1-4 * * 1-5'
+    - cron: '10,20 5 * * 1-5'
+  workflow_dispatch:
+permissions: {}
+concurrency:
+  group: public-market-refresh
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Attempt fixed public updater and retain health diagnostics
+        shell: bash
+        run: |
+          set +e
+          endpoint='https://taiwan-momentum-lab-joey-1027.plumjelly7.chatgpt.site'
+          status=$(curl --silent --show-error --connect-timeout 15 --max-time 180 --output refresh.json --write-out '%{http_code}' "$endpoint/api/scheduled-refresh")
+          result=$?
+          printf 'Updater HTTP=%s transport=%s\n' "$status" "$result"
+          if [ -f refresh.json ]; then cat refresh.json; fi
+          printf '\nPersisted public source health:\n'
+          curl --silent --show-error --connect-timeout 10 --max-time 25 "$endpoint/api/health"
+          printf '\nAn attempted run is not proof of fresh data; inspect persisted dates and source health above.\n'
+          exit 0
