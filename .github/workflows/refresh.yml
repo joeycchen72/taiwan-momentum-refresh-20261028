@@ -25,6 +25,10 @@ jobs:
           endpoint="$SITE_ORIGIN"
           status=$(curl --silent --show-error --connect-timeout 15 --max-time 180 --request POST --header "X-Cron-Key: $CRON_KEY" --output refresh.json --write-out '%{http_code}' "$endpoint/api/scheduled-refresh")
           result=$?
+          if [ "$result" -eq 0 ] && [ "$status" = "200" ]; then
+            printf "\nForward validation capture health:\n"
+            curl --silent --show-error --connect-timeout 10 --max-time 60 --request POST --header "X-Cron-Key: $CRON_KEY" "$endpoint/api/validation/refresh"
+          fi
           printf 'Updater HTTP=%s transport=%s\n' "$status" "$result"
           if [ -f refresh.json ]; then cat refresh.json; fi
           printf '\nPersisted public source health:\n'
