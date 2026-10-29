@@ -14,16 +14,20 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
-      - name: Attempt fixed public updater and retain health diagnostics
+      - name: Authenticated updater and persisted health
+        env:
+          CRON_KEY: ${{ secrets.CRON_KEY }}
+          SITE_ORIGIN: https://taiwan-momentum-lab-joey-1027.plumjelly7.chatgpt.site
         shell: bash
         run: |
-          set +e
-          endpoint='https://taiwan-momentum-lab-joey-1027.plumjelly7.chatgpt.site'
-          status=$(curl --silent --show-error --connect-timeout 15 --max-time 180 --output refresh.json --write-out '%{http_code}' "$endpoint/api/scheduled-refresh")
+          set -u
+          if [ -z "$CRON_KEY" ]; then echo "Missing updater secret"; exit 1; fi
+          endpoint="$SITE_ORIGIN"
+          status=$(curl --silent --show-error --connect-timeout 15 --max-time 180 --request POST --header "X-Cron-Key: $CRON_KEY" --output refresh.json --write-out '%{http_code}' "$endpoint/api/scheduled-refresh")
           result=$?
           printf 'Updater HTTP=%s transport=%s\n' "$status" "$result"
           if [ -f refresh.json ]; then cat refresh.json; fi
           printf '\nPersisted public source health:\n'
           curl --silent --show-error --connect-timeout 10 --max-time 25 "$endpoint/api/health"
           printf '\nAn attempted run is not proof of fresh data; inspect persisted dates and source health above.\n'
-          exit 0
+          if [ "$result" -ne 0 ] || [ "$status" != "200" ]; then exit 1; fi
