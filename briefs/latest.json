@@ -1,16 +1,80 @@
 {
- "version": 1,
- "date": "2026-11-12",
- "generatedAt": "2026-11-12T15:05:00Z",
- "summary": "首份早報（建立當晚手動產生，只放一則已核對原文的公告）；正式的每日早報從 11/13 早上開始。",
- "items": [
-  {
-   "title": "輝達宣布執行長交接：黃仁勳辭職，財務長 Colette Kress 暫代執行長",
-   "fact": "輝達董事會 11/12 公告黃仁勳辭去總裁、執行長與董事，即日生效；Kress 兼任暫代執行長，Harvey C. Jones 任首位董事長，公司將內外部尋找正式人選。公告未說明原因。",
-   "source": "SEC 8-K（輝達）",
-   "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm",
-   "theme": "company",
-   "publishedAt": null
-  }
- ]
+  "version": 1,
+  "date": "2026-11-13",
+  "generatedAt": "2026-11-12T23:20:52Z",
+  "summary": "台股前一日重挫2.63%、台積電跌55元；輝達執行長辭職後股價收跌4.34%，美股小跌、美債10年殖利率升至約5.1%；川普稱不需伊朗協議，油價走高。",
+  "items": [
+    {
+      "title": "台股重挫1,165點收43,091點，台積電跌55元",
+      "fact": "11/12加權指數收43,091.87點、跌2.63%，成交約1兆133億元；台積電收2,340元跌55元，電子類股跌3.07%。內文未說明下跌原因。",
+      "source": "經濟日報（中央社）",
+      "url": "https://money.udn.com/money/story/5607/9874258",
+      "theme": "tw",
+      "publishedAt": "2026-11-12T14:01:00+08:00"
+    },
+    {
+      "title": "台積電ADR跌1.90%，新台幣收32.889",
+      "fact": "台積電ADR於11/12收405.49美元、跌7.86美元（-1.90%），以當日新台幣收盤32.889元換算約每股2,667元。原因未說明。",
+      "source": "中央社（Yahoo股市）",
+      "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BBadr12%E6%97%A5%E4%B8%8B%E8%B7%8C7-86%E7%BE%8E%E5%85%83%E8%B7%8C%E5%B9%851-90-%E6%8A%98%E5%8F%B0%E8%82%A12667-23%E5%85%83-214559071.html",
+      "theme": "fx",
+      "publishedAt": null
+    },
+    {
+      "title": "美股四大指數小跌，美債10年殖利率升至約5.10%",
+      "fact": "11/12道瓊跌0.36%、標普500跌0.35%、那斯達克跌0.39%；10年期美債殖利率約5.10%。文中提到輝達執行長辭職、伊朗戰事與12月升息機率升溫等因素。",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-invest-110027430.html",
+      "theme": "rates",
+      "publishedAt": null
+    },
+    {
+      "title": "輝達執行長黃仁勳辭職後股價收跌4.34%",
+      "fact": "輝達11/12收166.19美元、跌4.34%；黃仁勳辭去執行長，財務長Colette Kress暫代執行長。",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-invest-110027430.html",
+      "theme": "company",
+      "publishedAt": null
+    },
+    {
+      "title": "輝達開盤一度跌14%，博通、超微盤中漲逾6%",
+      "fact": "美聯社報導輝達開盤一度跌14%後跌幅收斂；同時段博通漲6.7%、超微漲6.5%，美光跌2.5%（皆為盤中數字）。",
+      "source": "BNN Bloomberg（美聯社）",
+      "url": "https://www.bnnbloomberg.ca/markets/2026/11/12/nvidia-shares-plunge-13-at-open-after-ceo-jensen-huang-resigns/",
+      "theme": "company",
+      "publishedAt": "2026-11-12T16:50:00Z"
+    },
+    {
+      "title": "川普稱不需要與伊朗達成協議，油價收漲逾2%",
+      "fact": "布蘭特原油11/12收95.82美元、漲3.3%，西德州原油收88.74美元、漲2.6%；川普表示美國不需要和伊朗談協議。",
+      "source": "Rigzone（Bloomberg）",
+      "url": "https://www.rigzone.com/news/wire/oil_rises_as_trump_dims_iran_deal_hopes-12-nov-2026-185073-article/",
+      "theme": "energy",
+      "publishedAt": "2026-11-12T16:50:00-05:00"
+    },
+    {
+      "title": "伊朗表態不移出濃縮核原料，歐洲天然氣盤中漲6.7%",
+      "fact": "川普稱美方已掌握伊朗資金與荷莫茲海峽；伊朗表示不會移出濃縮核原料。歐洲天然氣盤中漲6.7%至每百萬瓦時92.5歐元。",
+      "source": "Anadolu（anews）",
+      "url": "https://www.anews.com.tr/europe/2026/11/12/energy-prices-rise-after-trump-says-us-does-not-need-a-deal-with-iran",
+      "theme": "geo",
+      "publishedAt": null
+    },
+    {
+      "title": "美眾議院議長強生表態支持限制晶片出口中國",
+      "fact": "眾議院議長強生表示支持限制對中國的晶片出口，稱出口管制正形成共識；屬政治表態，尚非新法規。",
+      "source": "Newsquawk",
+      "url": "https://www.newsquawk.com/headlines/us-house-speaker-johnson-says-he-is-in-favour-of-limiting-chip-exports-to-china-developing-consensus-on-export-controls",
+      "theme": "export",
+      "publishedAt": "2026-11-12T14:38:00Z"
+    },
+    {
+      "title": "暗網出現疑似台積電4.6萬筆員工資料，公司稱已掌握",
+      "fact": "有賣家在暗網論壇宣稱持有約4.6萬筆台積電員工資料並拍賣；來源未證實。台積電表示已掌握情形，正與雲端供應商及調查機關合作。",
+      "source": "CyberQ",
+      "url": "https://cyberq.tw/2026/11/12/46000-records-of-tsmc-employees-appeared/",
+      "theme": "tw",
+      "publishedAt": "2026-11-12T12:40:00+08:00"
+    }
+  ]
 }
