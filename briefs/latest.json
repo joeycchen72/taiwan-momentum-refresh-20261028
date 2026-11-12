@@ -1,0 +1,16 @@
+{
+ "version": 1,
+ "date": "2026-11-12",
+ "generatedAt": "2026-11-12T15:05:00Z",
+ "summary": "首份早報（建立當晚手動產生，只放一則已核對原文的公告）；正式的每日早報從 11/13 早上開始。",
+ "items": [
+  {
+   "title": "輝達宣布執行長交接：黃仁勳辭職，財務長 Colette Kress 暫代執行長",
+   "fact": "輝達董事會 11/12 公告黃仁勳辭去總裁、執行長與董事，即日生效；Kress 兼任暫代執行長，Harvey C. Jones 任首位董事長，公司將內外部尋找正式人選。公告未說明原因。",
+   "source": "SEC 8-K（輝達）",
+   "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm",
+   "theme": "company",
+   "publishedAt": null
+  }
+ ]
+}
