@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "date": "2026-11-14",
+  "generatedAt": "2026-11-13T23:40:00Z",
+  "summary": "台股11/13收漲583點至43,675點、聯發科大漲；美國10月PPI年增6.5%，市場估12月升息機率約九成；中國警告美方勿再加強晶片出口管制。",
+  "items": [
+    {
+      "title": "台股收漲583點至43,675點，盤中震盪逾955點",
+      "fact": "11/13加權指數收43,675.12點、漲583.25點，成交值9,162.55億元；台積電收2,350元漲10元，金融股漲逾2%、電子股漲1.2%。",
+      "source": "華視（中央社）",
+      "url": "https://news.cts.com.tw/cna/money/202611/202611133100701.html",
+      "theme": "tw",
+      "publishedAt": "2026-11-13T13:42:40+08:00"
+    },
+    {
+      "title": "聯發科大漲270元收4,120元，鴻海、長榮同步走高",
+      "fact": "11/13聯發科收4,120元漲270元；鴻海收241元漲1元，長榮收257.5元漲6元，廣達收276.5元跌2元。",
+      "source": "ETtoday財經雲",
+      "url": "https://finance.ettoday.net/news/3271594",
+      "theme": "company",
+      "publishedAt": "2026-11-13T13:36:00+08:00"
+    },
+    {
+      "title": "美股週五漲跌互見，那斯達克跌0.9%、科技股拖累",
+      "fact": "11/13標普500跌0.4%至7,561.67點，道瓊漲0.1%至52,347.55點，那斯達克跌0.9%至25,136.27點；輝達在前執行長辭職隔天續跌，美債殖利率走升。",
+      "source": "AP（KRMG轉載）",
+      "url": "https://krmg.com/2026/11/13/how-major-us-stock-indexes-fared-friday-11-13-2026/",
+      "theme": "demand",
+      "publishedAt": "2026-11-13T21:18:54Z"
+    },
+    {
+      "title": "美國10月PPI年增6.5%，12月升息機率升至約九成",
+      "fact": "10月生產者物價月增0.3%、年增6.5%（9月為6.3%），核心PPI月增0.3%符合預期；CME FedWatch顯示12月升息至4.00%–4.25%機率89.7%。",
+      "source": "InvestmentNews",
+      "url": "https://www.investmentnews.com/equities/ppi-still-uncomfortably-high-as-december-rate-hike-looms/269002",
+      "theme": "rates",
+      "publishedAt": "2026-11-13T10:11:50Z"
+    },
+    {
+      "title": "聯準會理事沃勒曾表示可考慮12月升息兩碼",
+      "fact": "報導指沃勒11/10傾向12月8–9日會議升息1碼，並稱若10月核心CPI約0.3%以上應考慮升2碼；10月CPI後來上升0.3%。",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/simonmoore/2026/11/13/waller-floats-prospect-of-larger-december-interest-rate-hike/",
+      "theme": "rates",
+      "publishedAt": "2026-11-13T17:34:00Z"
+    },
+    {
+      "title": "中國警告美國勿再祭出新的晶片出口管制",
+      "fact": "中國外交部發言人毛寧11/13表示一貫反對濫用出口管制；報導另指美商務部長盧特尼克同意12月10日赴參院銀行委員會作證。",
+      "source": "CBS News（法新社）",
+      "url": "https://www.cbsnews.com/news/china-us-export-controls-chips-nvidia-huang-scandal/",
+      "theme": "export",
+      "publishedAt": null
+    },
+    {
+      "title": "研究稱多個中國開源AI模型帶有輝達Blackwell訓練痕跡",
+      "fact": "研究者分析DeepSeek、月之暗面等模型，認為有用Blackwell晶片訓練的跡象，但文章說明不能證明違反出口法規；另報導約60萬顆H200囤放香港待進中國。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "theme": "export",
+      "publishedAt": "2026-11-13T18:40:30Z"
+    },
+    {
+      "title": "報導：美方承諾印度關稅將低於區域競爭國",
+      "fact": "據彭博報導，美國向印度保證其關稅稅率會低於區域競爭對手，但正式過渡貿易協議尚未達成，第一階段先涵蓋商品。",
+      "source": "WWD／Sourcing Journal（Yahoo轉載）",
+      "url": "https://www.yahoo.com/news/politics/articles/us-promises-india-see-lower-225442799.html",
+      "theme": "trade",
+      "publishedAt": "2026-11-13T22:54:00Z"
+    }
+  ]
+}
