@@ -1,72 +1,88 @@
 {
   "version": 1,
-  "date": "2026-11-14",
-  "generatedAt": "2026-11-13T23:40:00Z",
-  "summary": "台股11/13收漲583點至43,675點、聯發科大漲；美國10月PPI年增6.5%，市場估12月升息機率約九成；中國警告美方勿再加強晶片出口管制。",
+  "date": "2026-11-15",
+  "generatedAt": "2026-11-14T23:20:42Z",
+  "summary": "輝達執行長更替後晶片股續跌（台積電ADR跌1.7%）、美國10月PPI年增6.5%創近四年高，美中貿易委員會首次開會談互降關稅。",
   "items": [
     {
-      "title": "台股收漲583點至43,675點，盤中震盪逾955點",
-      "fact": "11/13加權指數收43,675.12點、漲583.25點，成交值9,162.55億元；台積電收2,350元漲10元，金融股漲逾2%、電子股漲1.2%。",
-      "source": "華視（中央社）",
-      "url": "https://news.cts.com.tw/cna/money/202611/202611133100701.html",
-      "theme": "tw",
-      "publishedAt": "2026-11-13T13:42:40+08:00"
-    },
-    {
-      "title": "聯發科大漲270元收4,120元，鴻海、長榮同步走高",
-      "fact": "11/13聯發科收4,120元漲270元；鴻海收241元漲1元，長榮收257.5元漲6元，廣達收276.5元跌2元。",
-      "source": "ETtoday財經雲",
-      "url": "https://finance.ettoday.net/news/3271594",
-      "theme": "company",
-      "publishedAt": "2026-11-13T13:36:00+08:00"
-    },
-    {
-      "title": "美股週五漲跌互見，那斯達克跌0.9%、科技股拖累",
-      "fact": "11/13標普500跌0.4%至7,561.67點，道瓊漲0.1%至52,347.55點，那斯達克跌0.9%至25,136.27點；輝達在前執行長辭職隔天續跌，美債殖利率走升。",
-      "source": "AP（KRMG轉載）",
-      "url": "https://krmg.com/2026/11/13/how-major-us-stock-indexes-fared-friday-11-13-2026/",
+      "title": "美股週五漲跌互見，那斯達克跌0.91%",
+      "fact": "道瓊小漲0.1%至52,347.55點，標普500跌0.4%至7,561.67點，那斯達克跌0.91%至25,136.27點；科技類股跌1.7%表現最差。",
+      "source": "新華社",
+      "url": "https://english.news.cn/northamerica/20261114/48afa9adbc4a440d9a21dabc97d755cf/c.html",
       "theme": "demand",
-      "publishedAt": "2026-11-13T21:18:54Z"
-    },
-    {
-      "title": "美國10月PPI年增6.5%，12月升息機率升至約九成",
-      "fact": "10月生產者物價月增0.3%、年增6.5%（9月為6.3%），核心PPI月增0.3%符合預期；CME FedWatch顯示12月升息至4.00%–4.25%機率89.7%。",
-      "source": "InvestmentNews",
-      "url": "https://www.investmentnews.com/equities/ppi-still-uncomfortably-high-as-december-rate-hike-looms/269002",
-      "theme": "rates",
-      "publishedAt": "2026-11-13T10:11:50Z"
-    },
-    {
-      "title": "聯準會理事沃勒曾表示可考慮12月升息兩碼",
-      "fact": "報導指沃勒11/10傾向12月8–9日會議升息1碼，並稱若10月核心CPI約0.3%以上應考慮升2碼；10月CPI後來上升0.3%。",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/simonmoore/2026/11/13/waller-floats-prospect-of-larger-december-interest-rate-hike/",
-      "theme": "rates",
-      "publishedAt": "2026-11-13T17:34:00Z"
-    },
-    {
-      "title": "中國警告美國勿再祭出新的晶片出口管制",
-      "fact": "中國外交部發言人毛寧11/13表示一貫反對濫用出口管制；報導另指美商務部長盧特尼克同意12月10日赴參院銀行委員會作證。",
-      "source": "CBS News（法新社）",
-      "url": "https://www.cbsnews.com/news/china-us-export-controls-chips-nvidia-huang-scandal/",
-      "theme": "export",
       "publishedAt": null
     },
     {
-      "title": "研究稱多個中國開源AI模型帶有輝達Blackwell訓練痕跡",
-      "fact": "研究者分析DeepSeek、月之暗面等模型，認為有用Blackwell晶片訓練的跡象，但文章說明不能證明違反出口法規；另報導約60萬顆H200囤放香港待進中國。",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-      "theme": "export",
-      "publishedAt": "2026-11-13T18:40:30Z"
+      "title": "AI與晶片股週五收低，超微重挫8.8%",
+      "fact": "黃仁勳辭任輝達執行長後，輝達週五再跌2%；超微跌8.8%、博通跌4.9%、高通跌2.6%、英特爾與美光各跌2.5%、台積電ADR跌1.7%。",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/fionariley/2026/11/13/ai-and-chip-stocks-finish-down-on-friday-as-markets-digest-nvidia-turmoil/",
+      "theme": "company",
+      "publishedAt": "2026-11-13T16:36:29-05:00"
     },
     {
-      "title": "報導：美方承諾印度關稅將低於區域競爭國",
-      "fact": "據彭博報導，美國向印度保證其關稅稅率會低於區域競爭對手，但正式過渡貿易協議尚未達成，第一階段先涵蓋商品。",
-      "source": "WWD／Sourcing Journal（Yahoo轉載）",
-      "url": "https://www.yahoo.com/news/politics/articles/us-promises-india-see-lower-225442799.html",
+      "title": "輝達11月17日公布財報，代理執行長克瑞斯首次主持",
+      "fact": "報導指輝達董事會11月11日接受黃仁勳辭職、由財務長克瑞斯代理執行長；第三季財報訂下週二公布，本週市值蒸發逾1.6兆美元。",
+      "source": "Stocktwits／TradingView",
+      "url": "https://www.tradingview.com/news/stocktwits:7fd709261094b:0-elon-musk-trump-kress-nvidia-s-board-on-jensen-huang-s-exit-mag-7-voices-this-week/",
+      "theme": "company",
+      "publishedAt": null
+    },
+    {
+      "title": "中國警告美國勿再加嚴晶片出口管制",
+      "fact": "中國外交部週五表示一貫反對濫用出口管制；美方官員稱商務部長盧特尼克同意12月10日赴參院銀行委員會作證。",
+      "source": "CBS News／法新社",
+      "url": "https://www.cbsnews.com/news/china-us-export-controls-chips-nvidia-huang-scandal/",
+      "theme": "export",
+      "publishedAt": "2026-11-13T11:23:00-05:00"
+    },
+    {
+      "title": "美中貿易委員會首次開會，談300億美元互降關稅",
+      "fact": "美中週五以視訊召開首次貿易委員會會議，討論雙方各300億美元商品互降關稅及農產品貿易；川習預計本週四在深圳APEC場邊會面。",
+      "source": "Tribune India（ANI）",
+      "url": "https://tribuneindia.com/news/agricultural-trade/china-and-us-discuss-usd-30-bn-reciprocal-tariff-cuts-ahead-of-trump-xi-meeting",
       "theme": "trade",
-      "publishedAt": "2026-11-13T22:54:00Z"
+      "publishedAt": "2026-11-14T18:02:15+05:30"
+    },
+    {
+      "title": "美國10月PPI年增6.5%，創近四年新高",
+      "fact": "10月生產者物價指數月增0.3%，略低於預期的0.4%；年增6.5%，為2022年11月以來最高；核心PPI月增0.3%符合預期。",
+      "source": "Newsbeep（引美國勞工統計局）",
+      "url": "https://www.newsbeep.com/808628/",
+      "theme": "rates",
+      "publishedAt": "2026-11-13T14:46:08Z"
+    },
+    {
+      "title": "Fed副主席傑佛遜：通膨將決定利率走向",
+      "fact": "彭博報導，聯準會副主席傑佛遜表示未來利率決策將取決於通膨情況；細節未能讀取原文確認。",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-14/fed-s-jefferson-says-inflation-will-determine-rate-decisions",
+      "theme": "rates",
+      "publishedAt": null
+    },
+    {
+      "title": "美10年期公債殖利率逼近5.15%，油價持平",
+      "fact": "週五美10年期公債殖利率走向約5.15%；布蘭特原油收95.84美元、小漲0.02美元，西德州原油收88.56美元、跌0.2%。",
+      "source": "Eurasia Business News",
+      "url": "https://eurasiabusinessnews.com/2026/11/14/stock-market-today-november-13-2026-tech-stocks-fall-as-nvidia-earnings-and-anthropic-ipo-loom/",
+      "theme": "energy",
+      "publishedAt": "2026-11-14T01:06:23Z"
+    },
+    {
+      "title": "台積電董事會核准投資Anthropic、OpenAI各上限5億美元",
+      "fact": "報導指台積電董事會11月10日核准對Anthropic與OpenAI各最高5億美元的投資額度，屬上限授權，不代表已完成購買。",
+      "source": "CASRAI",
+      "url": "https://casrai.org/news/tsmc-openai-anthropic-investment-approval-2026",
+      "theme": "tw",
+      "publishedAt": "2026-11-14T15:36:10Z"
+    },
+    {
+      "title": "報導稱台積電逾4.6萬筆員工資料外洩",
+      "fact": "科技網站報導台積電超過46,000筆員工紀錄疑遭竊；原文未能讀取，公司回應與影響範圍未確認。",
+      "source": "Sammy Fans",
+      "url": "https://www.sammyfans.com/2026/11/14/over-46000-tsmc-employee-records-reportedly-stolen-in-data-breach/",
+      "theme": "tw",
+      "publishedAt": null
     }
   ]
 }
