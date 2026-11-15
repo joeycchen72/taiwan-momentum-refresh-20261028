@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "date": "2026-11-16",
+  "generatedAt": "2026-11-15T23:20:28Z",
+  "summary": "美國財長要求輝達向外找新執行長、同時傳出黃仁勳考慮回任；美國10月通膨高於預期，市場預期12月升息；本週輝達財報（17日）與聯準會會議紀錄（18日）是焦點。",
+  "items": [
+    {
+      "title": "美財長貝森特：輝達應從公司外部找新執行長",
+      "fact": "貝森特15日受訪表示輝達董事會應向外尋找新執行長，並要求董事會與外部律師在10天內說明出口管制合規情況；目前由財務長Kress暫代執行長。",
+      "source": "Fox Business",
+      "url": "https://www.foxbusiness.com/business-leaders/bessent-calls-nvidia-leadership-shake-up-amid-china-chip-scandal-urges-outside-ceo",
+      "theme": "company",
+      "publishedAt": "2026-11-15T19:25:00Z"
+    },
+    {
+      "title": "金融時報：黃仁勳考慮回任輝達執行長",
+      "fact": "英國金融時報報導黃仁勳正考慮回任，矽谷盟友遊說董事會；輝達董事會表示尚未啟動正式程序，輝達與黃仁勳發言人未回應。",
+      "source": "聯合新聞網（引述金融時報）",
+      "url": "https://udn.com/news/story/6811/9880733",
+      "theme": "company",
+      "publishedAt": "2026-11-15T21:29:35Z"
+    },
+    {
+      "title": "美國10月CPI月增0.4%高於預期，市場押注12月升息",
+      "fact": "美國10月CPI月增0.4%，高於預期的0.3%；核心CPI連三個月月增0.3%。報導指市場已完全反映12月8～9日會議升息一碼。",
+      "source": "Latin Times",
+      "url": "https://www.latintimes.com/october-inflation-fed-rate-hike-december-601371",
+      "theme": "rates",
+      "publishedAt": "2026-11-15T21:37:00Z"
+    },
+    {
+      "title": "美國國會推動收緊對中國AI晶片出口",
+      "fact": "報導指美國眾議院議長與參院多數黨領袖支持收緊AI晶片出口限制，三項法案被提為國防授權法修正案，但參院尚未通過。",
+      "source": "Latin Times",
+      "url": "https://www.latintimes.com/jensen-huang-resigns-china-chip-export-controls-601367",
+      "theme": "export",
+      "publishedAt": "2026-11-15T19:53:48Z"
+    },
+    {
+      "title": "本週焦點：輝達17日財報、聯準會18日公布會議紀錄",
+      "fact": "輝達將於美國時間17日盤後公布財報，市場預估營收約1,088億美元；聯準會會議紀錄18日公布，Anthropic預計19日上市交易。美股三大指數上週各漲約2%。",
+      "source": "FXEmpire",
+      "url": "https://www.fxempire.com/forecasts/article/the-week-ahead-nvidia-earnings-anthropic-ipo-test-ai-trade-1644719",
+      "theme": "demand",
+      "publishedAt": "2026-11-15T21:16:00Z"
+    },
+    {
+      "title": "伊朗稱荷莫茲海峽油輪觸雷，美軍否認",
+      "fact": "伊朗海軍與革命衛隊稱有三艘油輪在荷莫茲海峽觸雷，美軍表示主要航道暢通、不同意此說法。布蘭特原油13日收95.84美元，連兩週下跌。",
+      "source": "FinanceFeeds",
+      "url": "https://financefeeds.com/brent-crude-oil-price-95-84-sunday-futures-open-week-ahead-iran-mine-claims-bull-98-bear-91/",
+      "theme": "energy",
+      "publishedAt": "2026-11-15T06:52:17Z"
+    },
+    {
+      "title": "報導：台積電以388億元購入友達兩座廠，擬做先進封裝",
+      "fact": "報導指友達將中科兩座面板廠以388億元售予台積電，消息人士稱將由精材建置先進封裝產線。友達15日表示點交須依主管機關程序，目前無時間表。",
+      "source": "經濟日報",
+      "url": "https://udn.com/news/story/7240/9880563",
+      "theme": "tw",
+      "publishedAt": "2026-11-15T18:17:00Z"
+    },
+    {
+      "title": "業界傳輝達Vera Rubin放量時程恐延至明年上半年",
+      "fact": "經濟日報彙整指業界傳出輝達Vera Rubin平台放量時程可能由今年底遞延至明年上半年，屬業界傳聞，原因未說明，公司未證實。",
+      "source": "經濟日報",
+      "url": "https://money.udn.com/money/story/5607/9880726",
+      "theme": "supply",
+      "publishedAt": "2026-11-15T19:58:45Z"
+    },
+    {
+      "title": "今日行事曆：央行赴立法院備詢、日本公布第3季GDP",
+      "fact": "16日央行赴立法院備詢，多檔ETF除權息；日本公布第3季GDP，中國公布10月社會消費品零售與房地產開發投資數據。",
+      "source": "經濟日報",
+      "url": "https://money.udn.com/money/story/5607/9880782",
+      "theme": "tw",
+      "publishedAt": "2026-11-15T22:55:13Z"
+    }
+  ]
+}

@@ -1,88 +1,80 @@
 {
   "version": 1,
-  "date": "2026-11-15",
-  "generatedAt": "2026-11-14T23:20:42Z",
-  "summary": "輝達執行長更替後晶片股續跌（台積電ADR跌1.7%）、美國10月PPI年增6.5%創近四年高，美中貿易委員會首次開會談互降關稅。",
+  "date": "2026-11-16",
+  "generatedAt": "2026-11-15T23:20:28Z",
+  "summary": "美國財長要求輝達向外找新執行長、同時傳出黃仁勳考慮回任；美國10月通膨高於預期，市場預期12月升息；本週輝達財報（17日）與聯準會會議紀錄（18日）是焦點。",
   "items": [
     {
-      "title": "美股週五漲跌互見，那斯達克跌0.91%",
-      "fact": "道瓊小漲0.1%至52,347.55點，標普500跌0.4%至7,561.67點，那斯達克跌0.91%至25,136.27點；科技類股跌1.7%表現最差。",
-      "source": "新華社",
-      "url": "https://english.news.cn/northamerica/20261114/48afa9adbc4a440d9a21dabc97d755cf/c.html",
-      "theme": "demand",
-      "publishedAt": null
-    },
-    {
-      "title": "AI與晶片股週五收低，超微重挫8.8%",
-      "fact": "黃仁勳辭任輝達執行長後，輝達週五再跌2%；超微跌8.8%、博通跌4.9%、高通跌2.6%、英特爾與美光各跌2.5%、台積電ADR跌1.7%。",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/fionariley/2026/11/13/ai-and-chip-stocks-finish-down-on-friday-as-markets-digest-nvidia-turmoil/",
+      "title": "美財長貝森特：輝達應從公司外部找新執行長",
+      "fact": "貝森特15日受訪表示輝達董事會應向外尋找新執行長，並要求董事會與外部律師在10天內說明出口管制合規情況；目前由財務長Kress暫代執行長。",
+      "source": "Fox Business",
+      "url": "https://www.foxbusiness.com/business-leaders/bessent-calls-nvidia-leadership-shake-up-amid-china-chip-scandal-urges-outside-ceo",
       "theme": "company",
-      "publishedAt": "2026-11-13T16:36:29-05:00"
+      "publishedAt": "2026-11-15T19:25:00Z"
     },
     {
-      "title": "輝達11月17日公布財報，代理執行長克瑞斯首次主持",
-      "fact": "報導指輝達董事會11月11日接受黃仁勳辭職、由財務長克瑞斯代理執行長；第三季財報訂下週二公布，本週市值蒸發逾1.6兆美元。",
-      "source": "Stocktwits／TradingView",
-      "url": "https://www.tradingview.com/news/stocktwits:7fd709261094b:0-elon-musk-trump-kress-nvidia-s-board-on-jensen-huang-s-exit-mag-7-voices-this-week/",
+      "title": "金融時報：黃仁勳考慮回任輝達執行長",
+      "fact": "英國金融時報報導黃仁勳正考慮回任，矽谷盟友遊說董事會；輝達董事會表示尚未啟動正式程序，輝達與黃仁勳發言人未回應。",
+      "source": "聯合新聞網（引述金融時報）",
+      "url": "https://udn.com/news/story/6811/9880733",
       "theme": "company",
-      "publishedAt": null
+      "publishedAt": "2026-11-15T21:29:35Z"
     },
     {
-      "title": "中國警告美國勿再加嚴晶片出口管制",
-      "fact": "中國外交部週五表示一貫反對濫用出口管制；美方官員稱商務部長盧特尼克同意12月10日赴參院銀行委員會作證。",
-      "source": "CBS News／法新社",
-      "url": "https://www.cbsnews.com/news/china-us-export-controls-chips-nvidia-huang-scandal/",
+      "title": "美國10月CPI月增0.4%高於預期，市場押注12月升息",
+      "fact": "美國10月CPI月增0.4%，高於預期的0.3%；核心CPI連三個月月增0.3%。報導指市場已完全反映12月8～9日會議升息一碼。",
+      "source": "Latin Times",
+      "url": "https://www.latintimes.com/october-inflation-fed-rate-hike-december-601371",
+      "theme": "rates",
+      "publishedAt": "2026-11-15T21:37:00Z"
+    },
+    {
+      "title": "美國國會推動收緊對中國AI晶片出口",
+      "fact": "報導指美國眾議院議長與參院多數黨領袖支持收緊AI晶片出口限制，三項法案被提為國防授權法修正案，但參院尚未通過。",
+      "source": "Latin Times",
+      "url": "https://www.latintimes.com/jensen-huang-resigns-china-chip-export-controls-601367",
       "theme": "export",
-      "publishedAt": "2026-11-13T11:23:00-05:00"
+      "publishedAt": "2026-11-15T19:53:48Z"
     },
     {
-      "title": "美中貿易委員會首次開會，談300億美元互降關稅",
-      "fact": "美中週五以視訊召開首次貿易委員會會議，討論雙方各300億美元商品互降關稅及農產品貿易；川習預計本週四在深圳APEC場邊會面。",
-      "source": "Tribune India（ANI）",
-      "url": "https://tribuneindia.com/news/agricultural-trade/china-and-us-discuss-usd-30-bn-reciprocal-tariff-cuts-ahead-of-trump-xi-meeting",
-      "theme": "trade",
-      "publishedAt": "2026-11-14T18:02:15+05:30"
+      "title": "本週焦點：輝達17日財報、聯準會18日公布會議紀錄",
+      "fact": "輝達將於美國時間17日盤後公布財報，市場預估營收約1,088億美元；聯準會會議紀錄18日公布，Anthropic預計19日上市交易。美股三大指數上週各漲約2%。",
+      "source": "FXEmpire",
+      "url": "https://www.fxempire.com/forecasts/article/the-week-ahead-nvidia-earnings-anthropic-ipo-test-ai-trade-1644719",
+      "theme": "demand",
+      "publishedAt": "2026-11-15T21:16:00Z"
     },
     {
-      "title": "美國10月PPI年增6.5%，創近四年新高",
-      "fact": "10月生產者物價指數月增0.3%，略低於預期的0.4%；年增6.5%，為2022年11月以來最高；核心PPI月增0.3%符合預期。",
-      "source": "Newsbeep（引美國勞工統計局）",
-      "url": "https://www.newsbeep.com/808628/",
-      "theme": "rates",
-      "publishedAt": "2026-11-13T14:46:08Z"
-    },
-    {
-      "title": "Fed副主席傑佛遜：通膨將決定利率走向",
-      "fact": "彭博報導，聯準會副主席傑佛遜表示未來利率決策將取決於通膨情況；細節未能讀取原文確認。",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-14/fed-s-jefferson-says-inflation-will-determine-rate-decisions",
-      "theme": "rates",
-      "publishedAt": null
-    },
-    {
-      "title": "美10年期公債殖利率逼近5.15%，油價持平",
-      "fact": "週五美10年期公債殖利率走向約5.15%；布蘭特原油收95.84美元、小漲0.02美元，西德州原油收88.56美元、跌0.2%。",
-      "source": "Eurasia Business News",
-      "url": "https://eurasiabusinessnews.com/2026/11/14/stock-market-today-november-13-2026-tech-stocks-fall-as-nvidia-earnings-and-anthropic-ipo-loom/",
+      "title": "伊朗稱荷莫茲海峽油輪觸雷，美軍否認",
+      "fact": "伊朗海軍與革命衛隊稱有三艘油輪在荷莫茲海峽觸雷，美軍表示主要航道暢通、不同意此說法。布蘭特原油13日收95.84美元，連兩週下跌。",
+      "source": "FinanceFeeds",
+      "url": "https://financefeeds.com/brent-crude-oil-price-95-84-sunday-futures-open-week-ahead-iran-mine-claims-bull-98-bear-91/",
       "theme": "energy",
-      "publishedAt": "2026-11-14T01:06:23Z"
+      "publishedAt": "2026-11-15T06:52:17Z"
     },
     {
-      "title": "台積電董事會核准投資Anthropic、OpenAI各上限5億美元",
-      "fact": "報導指台積電董事會11月10日核准對Anthropic與OpenAI各最高5億美元的投資額度，屬上限授權，不代表已完成購買。",
-      "source": "CASRAI",
-      "url": "https://casrai.org/news/tsmc-openai-anthropic-investment-approval-2026",
+      "title": "報導：台積電以388億元購入友達兩座廠，擬做先進封裝",
+      "fact": "報導指友達將中科兩座面板廠以388億元售予台積電，消息人士稱將由精材建置先進封裝產線。友達15日表示點交須依主管機關程序，目前無時間表。",
+      "source": "經濟日報",
+      "url": "https://udn.com/news/story/7240/9880563",
       "theme": "tw",
-      "publishedAt": "2026-11-14T15:36:10Z"
+      "publishedAt": "2026-11-15T18:17:00Z"
     },
     {
-      "title": "報導稱台積電逾4.6萬筆員工資料外洩",
-      "fact": "科技網站報導台積電超過46,000筆員工紀錄疑遭竊；原文未能讀取，公司回應與影響範圍未確認。",
-      "source": "Sammy Fans",
-      "url": "https://www.sammyfans.com/2026/11/14/over-46000-tsmc-employee-records-reportedly-stolen-in-data-breach/",
+      "title": "業界傳輝達Vera Rubin放量時程恐延至明年上半年",
+      "fact": "經濟日報彙整指業界傳出輝達Vera Rubin平台放量時程可能由今年底遞延至明年上半年，屬業界傳聞，原因未說明，公司未證實。",
+      "source": "經濟日報",
+      "url": "https://money.udn.com/money/story/5607/9880726",
+      "theme": "supply",
+      "publishedAt": "2026-11-15T19:58:45Z"
+    },
+    {
+      "title": "今日行事曆：央行赴立法院備詢、日本公布第3季GDP",
+      "fact": "16日央行赴立法院備詢，多檔ETF除權息；日本公布第3季GDP，中國公布10月社會消費品零售與房地產開發投資數據。",
+      "source": "經濟日報",
+      "url": "https://money.udn.com/money/story/5607/9880782",
       "theme": "tw",
-      "publishedAt": null
+      "publishedAt": "2026-11-15T22:55:13Z"
     }
   ]
 }
