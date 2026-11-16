@@ -1,80 +1,14 @@
-{
-  "version": 1,
-  "date": "2026-11-16",
-  "generatedAt": "2026-11-15T23:20:28Z",
-  "summary": "美國財長要求輝達向外找新執行長、同時傳出黃仁勳考慮回任；美國10月通膨高於預期，市場預期12月升息；本週輝達財報（17日）與聯準會會議紀錄（18日）是焦點。",
-  "items": [
-    {
-      "title": "美財長貝森特：輝達應從公司外部找新執行長",
-      "fact": "貝森特15日受訪表示輝達董事會應向外尋找新執行長，並要求董事會與外部律師在10天內說明出口管制合規情況；目前由財務長Kress暫代執行長。",
-      "source": "Fox Business",
-      "url": "https://www.foxbusiness.com/business-leaders/bessent-calls-nvidia-leadership-shake-up-amid-china-chip-scandal-urges-outside-ceo",
-      "theme": "company",
-      "publishedAt": "2026-11-15T19:25:00Z"
-    },
-    {
-      "title": "金融時報：黃仁勳考慮回任輝達執行長",
-      "fact": "英國金融時報報導黃仁勳正考慮回任，矽谷盟友遊說董事會；輝達董事會表示尚未啟動正式程序，輝達與黃仁勳發言人未回應。",
-      "source": "聯合新聞網（引述金融時報）",
-      "url": "https://udn.com/news/story/6811/9880733",
-      "theme": "company",
-      "publishedAt": "2026-11-15T21:29:35Z"
-    },
-    {
-      "title": "美國10月CPI月增0.4%高於預期，市場押注12月升息",
-      "fact": "美國10月CPI月增0.4%，高於預期的0.3%；核心CPI連三個月月增0.3%。報導指市場已完全反映12月8～9日會議升息一碼。",
-      "source": "Latin Times",
-      "url": "https://www.latintimes.com/october-inflation-fed-rate-hike-december-601371",
-      "theme": "rates",
-      "publishedAt": "2026-11-15T21:37:00Z"
-    },
-    {
-      "title": "美國國會推動收緊對中國AI晶片出口",
-      "fact": "報導指美國眾議院議長與參院多數黨領袖支持收緊AI晶片出口限制，三項法案被提為國防授權法修正案，但參院尚未通過。",
-      "source": "Latin Times",
-      "url": "https://www.latintimes.com/jensen-huang-resigns-china-chip-export-controls-601367",
-      "theme": "export",
-      "publishedAt": "2026-11-15T19:53:48Z"
-    },
-    {
-      "title": "本週焦點：輝達17日財報、聯準會18日公布會議紀錄",
-      "fact": "輝達將於美國時間17日盤後公布財報，市場預估營收約1,088億美元；聯準會會議紀錄18日公布，Anthropic預計19日上市交易。美股三大指數上週各漲約2%。",
-      "source": "FXEmpire",
-      "url": "https://www.fxempire.com/forecasts/article/the-week-ahead-nvidia-earnings-anthropic-ipo-test-ai-trade-1644719",
-      "theme": "demand",
-      "publishedAt": "2026-11-15T21:16:00Z"
-    },
-    {
-      "title": "伊朗稱荷莫茲海峽油輪觸雷，美軍否認",
-      "fact": "伊朗海軍與革命衛隊稱有三艘油輪在荷莫茲海峽觸雷，美軍表示主要航道暢通、不同意此說法。布蘭特原油13日收95.84美元，連兩週下跌。",
-      "source": "FinanceFeeds",
-      "url": "https://financefeeds.com/brent-crude-oil-price-95-84-sunday-futures-open-week-ahead-iran-mine-claims-bull-98-bear-91/",
-      "theme": "energy",
-      "publishedAt": "2026-11-15T06:52:17Z"
-    },
-    {
-      "title": "報導：台積電以388億元購入友達兩座廠，擬做先進封裝",
-      "fact": "報導指友達將中科兩座面板廠以388億元售予台積電，消息人士稱將由精材建置先進封裝產線。友達15日表示點交須依主管機關程序，目前無時間表。",
-      "source": "經濟日報",
-      "url": "https://udn.com/news/story/7240/9880563",
-      "theme": "tw",
-      "publishedAt": "2026-11-15T18:17:00Z"
-    },
-    {
-      "title": "業界傳輝達Vera Rubin放量時程恐延至明年上半年",
-      "fact": "經濟日報彙整指業界傳出輝達Vera Rubin平台放量時程可能由今年底遞延至明年上半年，屬業界傳聞，原因未說明，公司未證實。",
-      "source": "經濟日報",
-      "url": "https://money.udn.com/money/story/5607/9880726",
-      "theme": "supply",
-      "publishedAt": "2026-11-15T19:58:45Z"
-    },
-    {
-      "title": "今日行事曆：央行赴立法院備詢、日本公布第3季GDP",
-      "fact": "16日央行赴立法院備詢，多檔ETF除權息；日本公布第3季GDP，中國公布10月社會消費品零售與房地產開發投資數據。",
-      "source": "經濟日報",
-      "url": "https://money.udn.com/money/story/5607/9880782",
-      "theme": "tw",
-      "publishedAt": "2026-11-15T22:55:13Z"
-    }
-  ]
-}
+{"version":1,"date":"2026-11-17","generatedAt":"2026-11-16T23:19:26Z","summary":"台股16日重挫2,635點、跌幅6.03%，台積電跌135元；美國商務部同日收緊AI晶片出口與遠端算力管制，美股科技與半導體股續跌；輝達財報預定17日美股盤後公布。","items":[
+{"title":"台股重挫2,635點收41,040點，史上第2大收盤跌點","fact":"加權指數16日收41,040.08點、跌6.03%，成交8,450.56億元；台積電收2,215元跌135元，聯發科跌7.89%，鴻海跌9.34%，跌停逾百檔。文章歸因於輝達執行長異動引發AI前景疑慮。","source":"中央社","url":"https://www.cna.com.tw/news/afe/202611160119.aspx","theme":"tw","publishedAt":"2026-11-16T05:57:00Z"},
+{"title":"金管會：關注股市波動，已請證交所、櫃買密切注意","fact":"金管會表示台股16日跌幅6.03%高於日韓；截至11月13日整戶擔保維持率177.48%，並重申9日起已推出調升融券保證金成數等5項措施。","source":"中央社","url":"https://www.cna.com.tw/news/afe/202611160241.aspx","theme":"tw","publishedAt":"2026-11-16T10:38:00Z"},
+{"title":"證交所：若非理性連續下跌，將配合採取穩定措施","fact":"證交所鼓勵上市公司評估買回庫藏股，提醒留意融資等槓桿風險，並引用10月出口967.6億美元、年增58.9%等數據說明基本面。","source":"中國時報","url":"https://www.chinatimes.com/realtimenews/20261116003920-260410","theme":"tw","publishedAt":"2026-11-16T10:44:00Z"},
+{"title":"新台幣兌美元收32.886元，貶4.8分","fact":"新台幣16日收盤32.886元，貶值4.8分，成交金額17.22億美元；午盤一度貶至32.955元。原因未說明。","source":"中央社","url":"https://www.cna.com.tw/news/afe/202611160165.aspx","theme":"fx","publishedAt":"2026-11-16T08:06:00Z"},
+{"title":"美商務部新規：限制中國等國透過海外資料中心使用AI晶片","fact":"新規要求對可能提供算力給中國等受限國家的全球資料中心出口AI晶片須取得許可，門檻約相當750顆H100級晶片；既有業者須在生效後90天內申請。","source":"TechCrunch","url":"https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/","theme":"export","publishedAt":"2026-11-16T15:02:00Z"},
+{"title":"新規也對馬來西亞、新加坡等五國先進晶片加設許可","fact":"新規對印尼、馬來西亞、新加坡、泰國、巴西出口先進晶片增設許可要求，美國總部企業有豁免；將於刊登聯邦公報後生效，確切日期未說明。","source":"Fortune","url":"https://fortune.com/2026/11/16/new-commerce-rule-nvidia-chip-singapore-malaysia-china/","theme":"export","publishedAt":"2026-11-16T16:58:00Z"},
+{"title":"美股三大指數收黑，那斯達克跌2.49%","fact":"16日道瓊跌1.41%收51,608點，標普500跌1.92%，那斯達克跌2.49%，羅素2000跌1.70%；文章提到投資人關注輝達領導層變動、美債殖利率與晶片出口新規。","source":"Yahoo Finance（Motley Fool）","url":"https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-16-222502139.html","theme":"other","publishedAt":"2026-11-16T22:25:00Z"},
+{"title":"輝達跌4.12%，財報預定17日盤後公布","fact":"輝達16日收156.14美元、跌4.12%，成交量約為三個月均量的2.2倍；多家分析師財報前下修目標價，財報預定美東17日盤後發布。","source":"Motley Fool","url":"https://www.fool.com/coverage/stock-market-today/2026/11/16/stock-market-today-nov-16-nvidia-sinks-as-u-s-tightens-ai-chip-restrictions-and-analysts-slash-price-targets/","theme":"company","publishedAt":"2026-11-16T22:10:00Z"},
+{"title":"半導體股走弱：超微跌5.58%、博通跌3.92%、英特爾跌7.02%","fact":"16日超微收504.28美元跌5.58%，博通收333.40美元跌3.92%，英特爾跌7.02%；文章指半導體類股賣壓特別明顯。英特爾下跌原因未說明。","source":"Yahoo Finance（Motley Fool）","url":"https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-16-222502139.html","theme":"company","publishedAt":"2026-11-16T22:25:00Z"},
+{"title":"美10年期公債殖利率升至5.15%","fact":"美國10年期公債殖利率16日約5.15%，上升約5個基點；那斯達克跌幅約為道瓊兩倍，午後跌勢加深。","source":"24/7 Wall St.","url":"https://247wallst.com/cards/tech-took-the-worst-of-it-the-nasdaq-s-2-54-drop-nearly-do-gspc-market-bell-01m7k2rvdndtgg635thrxjgnck","theme":"rates","publishedAt":null},
+{"title":"市場已完全反映聯準會12月升息1碼，本週多項數據待公布","fact":"市場定價顯示12月FOMC升息25個基點機率超過100%；美國10月零售銷售、工業生產17日公布，FOMC會議紀要18日公布。","source":"Saxo","url":"https://www.home.saxo/content/articles/macro/market-quick-take---fed-chair-warsh-to-speak-today---16-november-2026-16112026","theme":"rates","publishedAt":null},
+{"title":"布蘭特原油回升至約96.6美元，荷莫茲海峽傳油輪觸雷","fact":"布蘭特原油16日早盤由94.32美元低點回升至約96.6美元；文章提到伊朗無人機攻擊巴林美軍基地及荷莫茲附近油輪觸雷。","source":"Saxo","url":"https://www.home.saxo/content/articles/macro/market-quick-take---fed-chair-warsh-to-speak-today---16-november-2026-16112026","theme":"energy","publishedAt":null}
+]}
