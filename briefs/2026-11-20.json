@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "date": "2026-11-20",
+  "generatedAt": "2026-11-19T23:20:42.300Z",
+  "summary": "台股前一日重挫1,768點、外資連賣台積電；美股接著三大指數跌逾2%，聯準會紀要顯示多數官員傾向再升息；美國同日發布新晶片出口管制。",
+  "items": [
+    {
+      "title": "台股單日重挫1,768點，收38,426點跌破年線",
+      "fact": "11月19日加權指數收38,426.89點，跌1,768.02點、跌幅4.4%，失守年線；台積電收2,100元，跌3.45%。",
+      "source": "經濟日報（中央社）",
+      "url": "https://money.udn.com/money/story/5612/9889037",
+      "theme": "tw",
+      "publishedAt": "2026-11-19T14:36:00+08:00"
+    },
+    {
+      "title": "外資賣超243億元，連5日賣超台積電",
+      "fact": "11月19日外資賣超243.12億元、三大法人合計賣超461.03億元；外資賣超台積電8,634張，連5個交易日、累計約4.98萬張。",
+      "source": "ETtoday財經雲",
+      "url": "https://finance.ettoday.net/news/3275110",
+      "theme": "tw",
+      "publishedAt": "2026-11-19T17:18:00+08:00"
+    },
+    {
+      "title": "新台幣盤中貶破33元，尾盤翻升收32.942元",
+      "fact": "11月19日新台幣盤中最弱33.04元，終場收32.942元、微升0.5分，台北與元太總成交32.82億美元。",
+      "source": "中央社",
+      "url": "https://www.cna.com.tw/news/afe/202611190296.aspx",
+      "theme": "fx",
+      "publishedAt": "2026-11-19T17:37:00+08:00"
+    },
+    {
+      "title": "美股三大指數全跌逾2%，標普連6黑",
+      "fact": "11月19日標普500跌2.00%至7,177、道瓊跌2.19%至49,097、那斯達克跌2.23%至23,886；11大類股全收黑，10年期殖利率小降至約5.05%。",
+      "source": "The Motley Fool",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/19/stock-market-today-nov-19-stock-market-today-nov-19-alphabet-shares-fall-as-anthropic-nasdaq-debut-puts-fresh-value-on-google-s-stake/",
+      "theme": "other",
+      "publishedAt": "2026-11-19T22:45:00Z"
+    },
+    {
+      "title": "聯準會10月紀要：幾乎所有官員認為可能需再升息",
+      "fact": "紀要顯示10月利率維持3.75%～4%，幾乎所有官員認為後續升息可能適當；下次會議12月8～9日，CME資料顯示12月升息1碼機率約96%。",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/11/19/fed-minutes-ai-inflation-data-centers-midterms-2027-rate-hike/",
+      "theme": "rates",
+      "publishedAt": "2026-11-19T15:44:00Z"
+    },
+    {
+      "title": "聯準會理事華勒提及12月可能升息2碼",
+      "fact": "報導指10月決議有兩位委員主張升息1碼；理事華勒認為若1月訊號不明確，12月應升息50個基點，市場估半碼以上機率約5%；職員估9月PCE通膨3.6%。",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/11/19/some-fed-officials-wanted-to-hike-in-october-a-half-point-hike-is-on-the-table/",
+      "theme": "rates",
+      "publishedAt": "2026-11-19T15:08:00Z"
+    },
+    {
+      "title": "美國發布新規，堵中國遠端使用先進AI晶片",
+      "fact": "美國商務部11月19日公布並即時生效新規：限制中國等D:5國家實體遠端使用境外先進AI算力，並要求對馬來西亞、新加坡、泰國、印尼、巴西轉移先進GPU須取得許可。",
+      "source": "Sidley Austin（法律事務所解析）",
+      "url": "https://www.sidley.com/en/insights/newsupdates/2026/11/new-export-controls-on-advanced-chips-close-remote-compute-access-loopholes-five-key-takeaways",
+      "theme": "export",
+      "publishedAt": null
+    },
+    {
+      "title": "超微遭放空機構報告指涉中國關係，股價重挫",
+      "fact": "Hunterbrook報告指超微與遭列黑名單的中國伺服器商有關聯，超微11月19日收跌7.72%；公司回應內容本文未說明。",
+      "source": "The Motley Fool",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/19/stock-market-today-nov-19-stock-market-today-nov-19-alphabet-shares-fall-as-anthropic-nasdaq-debut-puts-fresh-value-on-google-s-stake/",
+      "theme": "company",
+      "publishedAt": "2026-11-19T22:45:00Z"
+    },
+    {
+      "title": "Anthropic在那斯達克掛牌，首日收漲約17%",
+      "fact": "Anthropic（ANT）以每股83美元上市，開盤111.50美元，首日收漲約17.07%；同日比特幣跌至約61,800美元、為7月初以來低點。",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/11/19/live-updates-bitcoin-nears-usd64-000-as-anthropic-s-record-ipo-lifts-tech",
+      "theme": "demand",
+      "publishedAt": null
+    },
+    {
+      "title": "油價持平，布蘭特原油收91.98美元",
+      "fact": "11月19日布蘭特1月期貨收91.98美元、微漲0.03%，WTI 12月期貨收83.21美元；布蘭特本月累計跌約20%。",
+      "source": "Rigzone（Bloomberg）",
+      "url": "https://www.rigzone.com/news/wire/oil_prices_swing_on_middle_east_uncertainty-19-nov-2026-185129-article/",
+      "theme": "energy",
+      "publishedAt": "2026-11-19T22:31:00Z"
+    }
+  ]
+}
