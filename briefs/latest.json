@@ -1,88 +1,96 @@
 {
   "version": 1,
-  "date": "2026-11-20",
-  "generatedAt": "2026-11-19T23:20:42.300Z",
-  "summary": "台股前一日重挫1,768點、外資連賣台積電；美股接著三大指數跌逾2%，聯準會紀要顯示多數官員傾向再升息；美國同日發布新晶片出口管制。",
+  "date": "2026-11-21",
+  "generatedAt": "2026-11-20T23:20:28.744Z",
+  "summary": "台股11/20重挫2,393點、創史上第3大跌點，法人賣超522億元；美晶片出口新規生效、傳台積電暫停中國先進製程訂單；美股晚間因輝達傳遭SEC調查會計再重挫，那斯達克跌逾5%。",
   "items": [
     {
-      "title": "台股單日重挫1,768點，收38,426點跌破年線",
-      "fact": "11月19日加權指數收38,426.89點，跌1,768.02點、跌幅4.4%，失守年線；台積電收2,100元，跌3.45%。",
-      "source": "經濟日報（中央社）",
-      "url": "https://money.udn.com/money/story/5612/9889037",
+      "title": "台股單日重挫2,393點，收36,033點創近7個月新低",
+      "fact": "11月20日加權指數收36,033.29點，跌2,393.6點、跌幅6.23%，為史上第3大收盤跌點；本週累計跌7,641點、約17.5%。",
+      "source": "鉅亨網",
+      "url": "https://news.cnyes.com/news/id/6668901",
       "theme": "tw",
-      "publishedAt": "2026-11-19T14:36:00+08:00"
+      "publishedAt": "2026-11-20T15:08:00+08:00"
     },
     {
-      "title": "外資賣超243億元，連5日賣超台積電",
-      "fact": "11月19日外資賣超243.12億元、三大法人合計賣超461.03億元；外資賣超台積電8,634張，連5個交易日、累計約4.98萬張。",
-      "source": "ETtoday財經雲",
-      "url": "https://finance.ettoday.net/news/3275110",
+      "title": "三大法人賣超522億元，外資連5日賣超",
+      "fact": "11月20日外資賣超94.13億元、連續第5天賣超，投信賣超87.49億元，自營商賣超約340.8億元；外資買超前幾名為聯電、群創。",
+      "source": "中央社（華視轉載）",
+      "url": "https://news.cts.com.tw/cna/money/202611/202611203103475.html",
       "theme": "tw",
-      "publishedAt": "2026-11-19T17:18:00+08:00"
+      "publishedAt": "2026-11-20T17:05:44+08:00"
     },
     {
-      "title": "新台幣盤中貶破33元，尾盤翻升收32.942元",
-      "fact": "11月19日新台幣盤中最弱33.04元，終場收32.942元、微升0.5分，台北與元太總成交32.82億美元。",
+      "title": "金管會：11月9日以來台股跌9.24%，跌幅大於日韓",
+      "fact": "金管會統計11/9至11/20午盤台股跌9.24%，同期日本跌1.15%、韓國跌3.35%；新限空措施11/20起實施，借券賣出盤中委託上限由3%降為1%。",
       "source": "中央社",
-      "url": "https://www.cna.com.tw/news/afe/202611190296.aspx",
+      "url": "https://www.cna.com.tw/news/afe/202611200271.aspx",
+      "theme": "tw",
+      "publishedAt": "2026-11-20T18:12:00+08:00"
+    },
+    {
+      "title": "證交所董事長喊話基本面，稱新措施非全面禁空",
+      "fact": "證交所董事長林修銘稱上市公司前十月營收年增近四成，11月融資餘額較10月高點減少逾1,500億元，違約交割與追繳暫無明顯異常。",
+      "source": "聯合新聞網",
+      "url": "https://udn.com/news/story/7251/9892045",
+      "theme": "tw",
+      "publishedAt": "2026-11-20T19:42:06+08:00"
+    },
+    {
+      "title": "新台幣尾盤翻升0.6分，收32.936元",
+      "fact": "11月20日新台幣兌美元收32.936元，盤中最低33.04元；本週累計貶9.8分、週線連3黑。央行外匯局長表示外資匯出是貶值關鍵因素。",
+      "source": "中央社",
+      "url": "https://www.cna.com.tw/news/afe/202611200192.aspx",
       "theme": "fx",
-      "publishedAt": "2026-11-19T17:37:00+08:00"
+      "publishedAt": "2026-11-20T16:03:00+08:00"
     },
     {
-      "title": "美股三大指數全跌逾2%，標普連6黑",
-      "fact": "11月19日標普500跌2.00%至7,177、道瓊跌2.19%至49,097、那斯達克跌2.23%至23,886；11大類股全收黑，10年期殖利率小降至約5.05%。",
-      "source": "The Motley Fool",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/19/stock-market-today-nov-19-stock-market-today-nov-19-alphabet-shares-fall-as-anthropic-nasdaq-debut-puts-fresh-value-on-google-s-stake/",
-      "theme": "other",
-      "publishedAt": "2026-11-19T22:45:00Z"
-    },
-    {
-      "title": "聯準會10月紀要：幾乎所有官員認為可能需再升息",
-      "fact": "紀要顯示10月利率維持3.75%～4%，幾乎所有官員認為後續升息可能適當；下次會議12月8～9日，CME資料顯示12月升息1碼機率約96%。",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/11/19/fed-minutes-ai-inflation-data-centers-midterms-2027-rate-hike/",
-      "theme": "rates",
-      "publishedAt": "2026-11-19T15:44:00Z"
-    },
-    {
-      "title": "聯準會理事華勒提及12月可能升息2碼",
-      "fact": "報導指10月決議有兩位委員主張升息1碼；理事華勒認為若1月訊號不明確，12月應升息50個基點，市場估半碼以上機率約5%；職員估9月PCE通膨3.6%。",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/11/19/some-fed-officials-wanted-to-hike-in-october-a-half-point-hike-is-on-the-table/",
-      "theme": "rates",
-      "publishedAt": "2026-11-19T15:08:00Z"
-    },
-    {
-      "title": "美國發布新規，堵中國遠端使用先進AI晶片",
-      "fact": "美國商務部11月19日公布並即時生效新規：限制中國等D:5國家實體遠端使用境外先進AI算力，並要求對馬來西亞、新加坡、泰國、印尼、巴西轉移先進GPU須取得許可。",
-      "source": "Sidley Austin（法律事務所解析）",
-      "url": "https://www.sidley.com/en/insights/newsupdates/2026/11/new-export-controls-on-advanced-chips-close-remote-compute-access-loopholes-five-key-takeaways",
+      "title": "美晶片出口新規生效，傳台積電暫停中國16奈米以下訂單",
+      "fact": "美國BIS先進晶片管制新規11月20日生效；路透引述知情人士稱台積電暫停中國客戶16奈米及以下訂單，台積電回應不評論傳聞、將遵循法令。",
+      "source": "中央社（引述路透）",
+      "url": "https://www.cna.com.tw/news/afe/202611200096.aspx",
       "theme": "export",
-      "publishedAt": null
+      "publishedAt": "2026-11-20T12:23:00+08:00"
     },
     {
-      "title": "超微遭放空機構報告指涉中國關係，股價重挫",
-      "fact": "Hunterbrook報告指超微與遭列黑名單的中國伺服器商有關聯，超微11月19日收跌7.72%；公司回應內容本文未說明。",
-      "source": "The Motley Fool",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/19/stock-market-today-nov-19-stock-market-today-nov-19-alphabet-shares-fall-as-anthropic-nasdaq-debut-puts-fresh-value-on-google-s-stake/",
+      "title": "路透：美國SEC調查聚焦輝達會計處理",
+      "fact": "路透引述兩名知情人士，SEC正調查輝達會計做法；SEC不予置評，輝達未立即回應。報導指調查不代表有不法，開始時間與具體議題不明。",
+      "source": "Reuters（WHTC轉載）",
+      "url": "https://whtc.com/2026/11/20/exclusive-us-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say/",
       "theme": "company",
-      "publishedAt": "2026-11-19T22:45:00Z"
+      "publishedAt": "2026-11-20T14:16:00-05:00"
     },
     {
-      "title": "Anthropic在那斯達克掛牌，首日收漲約17%",
-      "fact": "Anthropic（ANT）以每股83美元上市，開盤111.50美元，首日收漲約17.07%；同日比特幣跌至約61,800美元、為7月初以來低點。",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/11/19/live-updates-bitcoin-nears-usd64-000-as-anthropic-s-record-ipo-lifts-tech",
-      "theme": "demand",
-      "publishedAt": null
+      "title": "美股重挫：那斯達克跌逾5%，輝達單日跌14%",
+      "fact": "11月20日標普500跌約3.8%、那斯達克跌逾5%；輝達跌14.01%收125.53美元，超微跌13.26%、博通跌12.12%。報導提及SEC調查報導與AI估值疑慮。",
+      "source": "The Motley Fool",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/20/stock-market-today-nov-20-nvidia-s-usd2-5-trillion-rout-deepens-as-sec-accounting-probe-adds-to-wall-street-s-ai-sell-off/",
+      "theme": "company",
+      "publishedAt": "2026-11-20T16:35:00-05:00"
     },
     {
-      "title": "油價持平，布蘭特原油收91.98美元",
-      "fact": "11月19日布蘭特1月期貨收91.98美元、微漲0.03%，WTI 12月期貨收83.21美元；布蘭特本月累計跌約20%。",
-      "source": "Rigzone（Bloomberg）",
-      "url": "https://www.rigzone.com/news/wire/oil_prices_swing_on_middle_east_uncertainty-19-nov-2026-185129-article/",
+      "title": "聯準會理事庫克：需要升息才能壓低通膨",
+      "fact": "庫克在智利會議講稿表示9月升息一碼不夠、通膨下降證據有限；目前利率3.75%～4.00%，市場普遍預期12月8～9日會議升息。",
+      "source": "Reuters（Kitco轉載）",
+      "url": "https://www.kitco.com/news/off-the-wire/2026-11-20/feds-cook-says-rate-hikes-needed-lower-high-inflation",
+      "theme": "rates",
+      "publishedAt": "2026-11-20T13:31:00-05:00"
+    },
+    {
+      "title": "理事華勒提及12月可能升息兩碼",
+      "fact": "華勒在11月18日受訪時稱民眾開始把3%通膨視為常態，提及12月可能升息半個百分點至4.25%～4.50%；期貨市場定價為升息一碼。",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/11/20/fed-rate-hikes-higher-inflation-expectations-unanchored-chris-waller/",
+      "theme": "rates",
+      "publishedAt": "2026-11-20T16:08:00-05:00"
+    },
+    {
+      "title": "油價週五小漲，但連3週下跌",
+      "fact": "11月20日布蘭特1月期貨收92.57美元、漲0.6%，WTI 1月期貨收83.41美元；布蘭特本週跌3.4%。IEA預估本季供給過剩約每日200萬桶。",
+      "source": "Bloomberg（Rigzone轉載）",
+      "url": "https://www.rigzone.com/news/oil_posts_third_weekly_loss_amid_surplus-20-nov-2026-185141-article",
       "theme": "energy",
-      "publishedAt": "2026-11-19T22:31:00Z"
+      "publishedAt": "2026-11-20T16:25:00-05:00"
     }
   ]
 }
