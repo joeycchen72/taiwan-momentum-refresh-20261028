@@ -1,104 +1,11 @@
-{
-  "version": 1,
-  "date": "2026-11-22",
-  "generatedAt": "2026-11-21T23:20:08Z",
-  "summary": "美股AI與晶片股重挫、台股單週跌約17.5%創36年最大，金管會明起禁平盤下放空、國安基金表態已護盤；聯準會官員偏向繼續升息。",
-  "items": [
-    {
-      "title": "台股週五重挫6.23%收36,033點，單週跌約17.5%創36年最大",
-      "fact": "加權指數11月21日跌6.23%收36,033點，本週累跌約17.5%，為1990年以來最大單週跌幅；台積電當日跌4.76%、全週跌約15.8%。",
-      "source": "鉅亨網",
-      "url": "https://news.cnyes.com/news/id/6669709",
-      "theme": "tw",
-      "publishedAt": "2026-11-21T10:12:00Z"
-    },
-    {
-      "title": "金管會：11月23日起全面禁止平盤以下放空等多項措施",
-      "fact": "自11月23日起融券與借券賣出不得低於前一日收盤價（避險除外），融券保證金成數由130%調為150%，暫停受理發行認售權證，並鼓勵公司實施庫藏股。",
-      "source": "蕃新聞（彙整金管會公告）",
-      "url": "https://n.yam.com/Article/20261121311831",
-      "theme": "tw",
-      "publishedAt": "2026-11-21T08:45:00Z"
-    },
-    {
-      "title": "國安基金假日表態：已進場護盤",
-      "fact": "國安基金表示自11月6日臨時委員會授權後已進場，外資賣超漸收斂，並將視情況採取必要措施；同時列出經濟成長率11.05%等基本面數據。",
-      "source": "中央社",
-      "url": "https://www.cna.com.tw/news/afe/202611210132.aspx",
-      "theme": "tw",
-      "publishedAt": "2026-11-21T08:24:00Z"
-    },
-    {
-      "title": "金管會已將盤中放空上限由3%降至1%",
-      "fact": "彭博報導，金管會將盤中放空量上限由30日均量的3%降為1%；台股自10月6日高點已回落逾四分之一，外資本季淨賣超逾560億美元。",
-      "source": "Taipei Times（Bloomberg）",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/11/21/2003868120",
-      "theme": "tw",
-      "publishedAt": null
-    },
-    {
-      "title": "台積電ADR單週跌約20%，對台股溢價縮至約5%",
-      "fact": "台積電ADR本週下跌20.07%，台股台積電週跌14.9%（各媒體計算口徑不同），ADR相對台股溢價縮小到約5%；台股週跌幅為全球主要股市最大。",
-      "source": "聯合新聞網（經濟日報）",
-      "url": "https://udn.com/news/story/6811/9893103",
-      "theme": "company",
-      "publishedAt": "2026-11-21T04:40:57Z"
-    },
-    {
-      "title": "美股週五大跌，標普500與道瓊進入修正區",
-      "fact": "11月20日SPY跌3.64%、QQQ跌5.67%、DIA跌1.98%；輝達跌14.01%、美光跌13.89%、超微跌13.25%、博通跌12.19%，台積電ADR跌9.48%。",
-      "source": "StockTitan",
-      "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-20-2026",
-      "theme": "demand",
-      "publishedAt": null
-    },
-    {
-      "title": "那斯達克100距熊市僅49點，費半單日跌10.7%",
-      "fact": "那斯達克100指數11月20日跌5.61%收25,028.98，距離比10月6日高點低20%的熊市線只差約49點；費城半導體指數當日跌10.7%（引述美聯社）。",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/11/21/the-nasdaq-100-is-now-just-49-points-from-a-bear-market/",
-      "theme": "demand",
-      "publishedAt": "2026-11-21T17:42:00Z"
-    },
-    {
-      "title": "報導稱美SEC對輝達展開會計調查，股價單週跌約23%",
-      "fact": "文章引述路透報導SEC對輝達展開會計調查，細節不多、非公司公告；輝達週五跌14%收125.53美元，單週跌約23%。目前由前財務長擔任代理執行長。",
-      "source": "The Motley Fool（引述Reuters）",
-      "url": "https://www.fool.com/investing/2026/11/21/after-its-worst-week-in-18-years-nvidia-now-faces-an-sec-investigation-what-it-means-for-investors/",
-      "theme": "company",
-      "publishedAt": "2026-11-21T06:10:00Z"
-    },
-    {
-      "title": "聯準會理事華勒支持考慮12月升息半碼以上",
-      "fact": "華勒受訪表示民眾開始把3%通膨當常態，支持在12月8至9日會議考慮升息兩碼，並稱可能需要升息三次甚至更多；期貨市場定價12月升息一碼。",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/11/20/fed-rate-hikes-higher-inflation-expectations-unanchored-chris-waller/",
-      "theme": "rates",
-      "publishedAt": "2026-11-20T21:08:00Z"
-    },
-    {
-      "title": "摩根大通改口：預期聯準會12月、1月、3月連升三碼",
-      "fact": "摩根大通11月19日客戶報告改為預期12月、2027年1月與3月各升息一碼；文章稱德銀與美銀也預期連續三次升息。",
-      "source": "TheStreet（引述Reuters）",
-      "url": "https://www.thestreet.com/fed/j-p-morgan-prices-in-stunning-shift-in-fed-rate-hike-call",
-      "theme": "rates",
-      "publishedAt": "2026-11-21T12:07:00Z"
-    },
-    {
-      "title": "央行：外資前10月賣超約2.3兆元，是新台幣貶值主因之一",
-      "fact": "央行說明外資持股約占上市櫃市值46%，今年前10月賣超台股約新台幣2.3兆元，是近期新台幣貶值的主要原因之一；1至10月商品貿易順差1,886億美元。",
-      "source": "蕃新聞（彙整央行說明）",
-      "url": "https://n.yam.com/Article/20261121311831",
-      "theme": "fx",
-      "publishedAt": "2026-11-21T08:45:00Z"
-    },
-    {
-      "title": "俄羅斯大規模空襲烏克蘭，俄軍機也進入台灣防空識別區",
-      "fact": "俄軍20日夜間以逾80枚飛彈與約400架無人機攻擊烏克蘭，波蘭稱有飛彈落入境內；另有俄軍機自東北進入台灣防空識別區後由東南離開。",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/11/21/2003868121",
-      "theme": "geo",
-      "publishedAt": null
-    }
-  ]
-}
+{"version":1,"date":"2026-11-23","generatedAt":"2026-11-22T23:20:20Z","summary":"美股上週五重挫、那斯達克單日跌逾5%且輝達跌約14%；台股今天起實施平盤下禁空等限制，證交所與券商另有融資維持率由130%降到120%的共識，仍待金管會確認。","items":[
+{"title":"外資單日賣超逾3千億元，平盤下禁空等限制今天上路","fact":"壹蘋報導，外資今年最大單日賣超超過3,000億元，台股上週跌7,641點、跌幅17.5%；金管會的限空措施自11月23日起實施。","source":"壹蘋新聞網","url":"https://news.nextapple.com/finance/20261123/4229DF5288D140D9BB5AD98CA4D1369B","theme":"tw","publishedAt":"2026-11-23T07:13:00+08:00"},
+{"title":"融資維持率擬由130%降到120%，最快11月24或25日實施","fact":"證交所11月22日召集十大券商，同意將融資維持率由130%降至120%；實施時間與細節仍待金管會公告，券商擔心系統來不及在23日上線。","source":"工商時報","url":"https://www.ctee.com.tw/news/20261123700047-439901","theme":"tw","publishedAt":"2026-11-23T03:00:00+08:00"},
+{"title":"證交所與券商開會：自營部將加碼，券商建議擴大國安基金","fact":"聯合報報導，證交所與十大券商週日開會獲三項共識：調降融資維持率、券商自營部準備加碼，以及券商認為5,000億元國安基金規模不足、建議擴大。","source":"聯合報","url":"https://udn.com/news/story/10103/9894703","theme":"tw","publishedAt":"2026-11-22T16:35:41+08:00"},
+{"title":"美股上週五重挫，道瓊與標普500進入修正區","fact":"Fox News報導，標普500跌3.7%、連七個交易日下跌，那斯達克綜合指數跌5.28%，道瓊跌近950點；報導列出AI支出與估值疑慮、升息預期等因素。","source":"Fox News","url":"https://www.foxnews.com/live-news/ai-news-markets-correction-11-22-26","theme":"demand","publishedAt":"2026-11-22T12:50:00Z"},
+{"title":"輝達股價上週五跌約14%，Anthropic跌近9%","fact":"報導指輝達單日跌約14%；Anthropic上市後第二個交易日跌近9%至約89美元，上市首日開在111.5美元、承銷價83美元；VIX升至約36。","source":"JournalArta","url":"https://journalarta.com/en/2026/11/22/nasdaq-falls-ai-stock-selloff-nvidia-anthropic/","theme":"company","publishedAt":"2026-11-22T18:03:40+07:00"},
+{"title":"美國10年期公債殖利率由5.05%降到4.94%","fact":"同一篇報導指出，在股市重挫當天，美國10年期公債殖利率由5.05%下滑至4.94%。","source":"JournalArta","url":"https://journalarta.com/en/2026/11/22/nasdaq-falls-ai-stock-selloff-nvidia-anthropic/","theme":"rates","publishedAt":"2026-11-22T18:03:40+07:00"},
+{"title":"本週美國PCE物價與GDP週三公布，感恩節週四休市","fact":"美國PCE物價指數與第三季GDP修正值訂於11月25日公布；美股26日感恩節休市、27日提早收盤；報導引述預測市場對12月升息一碼的定價約89.5%。","source":"Rio Times","url":"https://riotimesonline.com/key-market-events-for-the-week-of-november-23-27-2026","theme":"rates","publishedAt":"2026-11-22T09:37:29Z"},
+{"title":"布蘭特油價連三週下跌，焦點轉向11月29日OPEC+會議","fact":"布蘭特原油1月期貨上週五結算92.57美元，單週跌3.27美元；WTI約83.41美元；OPEC+預定11月29日開會。這是分析文章，部分數據該文自稱未證實。","source":"Discovery Alert","url":"https://discoveryalert.com/analysis/crude-oil-price-outlook-brent-opec-november-2026/","theme":"energy","publishedAt":"2026-11-22T13:26:16Z"},
+{"title":"荷莫茲海峽傳兩艘油輪遭擊中，巴林攔截伊朗空襲","fact":"英國海事貿易行動辦公室稱兩艘油輪在荷莫茲海峽疑遭擊中、無人傷亡；巴林表示攔截多波伊朗空中攻擊，僅輕微損害。","source":"Gulf News","url":"https://gulfnews.com/world/mena/middle-east-war-key-updates-uae-residents-need-to-know-today-november-22-1.500756860","theme":"geo","publishedAt":null}
+]}
