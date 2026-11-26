@@ -1,120 +1,16 @@
-{
-  "version": 1,
-  "date": "2026-11-26",
-  "generatedAt": "2026-11-25T23:20:38Z",
-  "summary": "台股25日重挫1,926點、外資賣超逾1,200億元、新台幣貶破33.1；美國提議對含台灣在內14個經濟體課新關稅，10月PCE年增3.8%使12月升息預期升高。",
-  "items": [
-    {
-      "title": "台股重挫1926點收38,195點，史上第6大跌點",
-      "fact": "25日加權指數收38,195.43點，跌1,926.92點（-4.8%），成交約1.19兆元；台積電收2,150元、跌80元（-3.59%）。",
-      "source": "中央社（聯合新聞網）",
-      "url": "https://udn.com/news/story/7251/9901262",
-      "theme": "tw",
-      "publishedAt": "2026-11-25T15:24:00+08:00"
-    },
-    {
-      "title": "外資單日賣超1,236億元，投信買超535億元",
-      "fact": "25日外資及陸資賣超1,236.55億元，投信買超535.32億元，自營商賣超128.33億元；主動式ETF 00981A居買超榜前列。",
-      "source": "聯合新聞網",
-      "url": "https://udn.com/news/story/7251/9901626",
-      "theme": "tw",
-      "publishedAt": "2026-11-25T17:17:28+08:00"
-    },
-    {
-      "title": "新台幣重貶1.87角，收33.126元",
-      "fact": "新台幣兌美元25日收33.126元，貶1.87角，盤中一度到33.19元；報導指外資已連續8個交易日賣超。",
-      "source": "NOWnews",
-      "url": "https://www.nownews.com/news/6895468",
-      "theme": "fx",
-      "publishedAt": "2026-11-25T16:38:34+08:00"
-    },
-    {
-      "title": "金管會：11月以來台股跌15.5%，將視情況再推措施",
-      "fact": "金管會表示三波措施後借券賣出占成交值比重介於0.27%～2%，11月1日至25日台股跌15.52%，韓股跌17.97%；將持續關注並適時再推措施。",
-      "source": "工商時報",
-      "url": "https://www.ctee.com.tw/news/20261125701829-430301",
-      "theme": "tw",
-      "publishedAt": "2026-11-25T17:55:27+08:00"
-    },
-    {
-      "title": "台積電ADR跌近2%，台指期夜盤反彈274點",
-      "fact": "台積電ADR收342.34美元、跌近2%，較台北溢價約5.6%；台指期夜盤漲274點至38,397點。",
-      "source": "經濟日報",
-      "url": "https://money.udn.com/money/story/123398/9902571",
-      "theme": "company",
-      "publishedAt": "2026-11-26T07:03:00+08:00"
-    },
-    {
-      "title": "美股收盤：道瓊翻紅，那斯達克跌0.6%，輝達跌3.9%",
-      "fact": "25日標普500跌0.25%、那斯達克跌0.62%，道瓊盤中大跌後收高；輝達收149.30美元、跌3.91%，美光跌4.53%。",
-      "source": "Motley Fool（Yahoo Finance）",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-25-220645995.html",
-      "theme": "demand",
-      "publishedAt": "2026-11-25T14:06:00-08:00"
-    },
-    {
-      "title": "美國10月PCE年增3.8%，第三季GDP上修至4.3%",
-      "fact": "10月PCE物價年增3.8%，核心年增3.3%；第三季GDP成長率由3.4%上修至4.3%。",
-      "source": "StockTitan",
-      "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-25-2026",
-      "theme": "rates",
-      "publishedAt": "2026-11-25T16:21:00-05:00"
-    },
-    {
-      "title": "市場預期聯準會12月升息機率約97%",
-      "fact": "報導引CME FedWatch，市場預期12月升息一碼機率約97%；主席華許表示有責任壓低通膨。",
-      "source": "ABC News",
-      "url": "https://abcnews.com/Business/inflation-report-provide-feds-preferred-gauge-prices-ahead/story?id=138410424",
-      "theme": "rates",
-      "publishedAt": "2026-11-25T10:29:09Z"
-    },
-    {
-      "title": "美國USTR提議對14個經濟體課301關稅，台灣在列",
-      "fact": "USTR提議以「結構性產能過剩」為由對14個經濟體課關稅，名單含台灣、中國、日韓、歐盟等；多數國家稅率未公布，墨西哥與挪威未列入。",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/25/trump-announces-new-trade-tariffs-which-countries-will-they-target",
-      "theme": "trade",
-      "publishedAt": null
-    },
-    {
-      "title": "美方提議對韓日歐課15%，韓國最高可能到25%",
-      "fact": "聯邦公報通知提議對韓、日、瑞士、歐盟課15%，中國20%；意見截止1月5日、1月25日聽證，最快1月生效。",
-      "source": "首爾經濟日報",
-      "url": "https://en.sedaily.com/world/2026/11/26/us-sets-15-percent-tariff-on-korea-warns-of-25-percent-if",
-      "theme": "trade",
-      "publishedAt": "2026-11-26T00:21:16+09:00"
-    },
-    {
-      "title": "標普將輝達信用評等列入觀察名單",
-      "fact": "報導指S&P Global將輝達信用評等列入可能調降的觀察名單，理由為公司治理風險。",
-      "source": "StockTitan",
-      "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-25-2026",
-      "theme": "company",
-      "publishedAt": "2026-11-25T16:21:00-05:00"
-    },
-    {
-      "title": "布蘭特原油漲3.5%至94.61美元",
-      "fact": "布蘭特原油1月期貨收94.61美元、漲3.5%，WTI收83.68美元、漲2%；沙烏地稱攔截飛向拉斯坦努拉的無人機。",
-      "source": "Bloomberg（Rigzone）",
-      "url": "https://www.rigzone.com/news/wire/oil_up_as_hormuz_attacks_counter_recovery_in_supply-25-nov-2026-185171-article/",
-      "theme": "energy",
-      "publishedAt": "2026-11-25T16:16:00-05:00"
-    },
-    {
-      "title": "伊朗稱又有油輪在荷莫茲海峽觸雷起火",
-      "fact": "伊朗軍方稱一艘油輪在荷莫茲海峽管制區觸雷起火；目前未見獨立證實。",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order",
-      "theme": "geo",
-      "publishedAt": null
-    },
-    {
-      "title": "彭博：川普將出席台積電亞利桑那擴廠典禮",
-      "fact": "彭博引白宮官員稱川普將於12月4日出席台積電鳳凰城廠區擴建典禮；台積電累計在美承諾投資2,650億美元。",
-      "source": "經濟日報（彭博）",
-      "url": "https://money.udn.com/money/story/5612/9902330",
-      "theme": "company",
-      "publishedAt": "2026-11-26T03:33:00+08:00"
-    }
-  ]
-}
+{"version":1,"date":"2026-11-27","generatedAt":"2026-11-26T23:20:04Z","summary":"美國擬依301條款對14個貿易夥伴加徵新關稅（台灣上限15%）、美國10月PCE通膨偏高使市場押注12月升息，台股在前一天重挫後於11/26反彈956點。",
+"items":[
+{"title":"台股11/26反彈956點收39,151點，台積電小跌","fact":"加權指數上漲956.38點（+2.5%）收39,151.81點，成交8,175億元；台積電跌5元收2,145元，台達電、鴻海、南亞科大漲。","source":"經濟日報","url":"https://money.udn.com/money/story/12509/9903549","theme":"tw","publishedAt":"2026-11-26T14:01:00+08:00"},
+{"title":"11/25台股重挫1,926點，為前一日的大跌背景","fact":"11/25加權指數下跌1,926.92點（-4.80%）收38,195.43點，盤中一度跌約3,440點；台積電跌3.59%，聯發科跌停，韓日股市同步下跌。","source":"Taipei Times","url":"https://www.taipeitimes.com/News/biz/archives/2026/11/26/2003868387","theme":"tw","publishedAt":null},
+{"title":"新台幣大升1.79角，收32.947元","fact":"11/26新台幣兌美元收32.947元，升值1.79角，台北外匯經紀公司成交17.87億美元，重回33元以內。","source":"中央社","url":"https://www.cna.com.tw/news/afe/202611260185.aspx","theme":"fx","publishedAt":"2026-11-26T16:07:00+08:00"},
+{"title":"美股11/25收盤分歧：道瓊小漲、那斯達克跌，輝達跌3.9%","fact":"道瓊漲0.33%收50,182.95點，標普500跌0.25%，那斯達克跌0.62%；盤中一度大跌後尾盤收斂，輝達收149.30美元跌3.9%，AI類股連兩天賣壓。","source":"GSM Global News","url":"https://gsmglobalnews.com/article/d20261125-mktclose1.html","theme":"demand","publishedAt":"2026-11-25T23:44:00Z"},
+{"title":"美國10月PCE年增3.8%、核心3.3%，市場預期12月升息","fact":"美國10月PCE物價年增3.8%，核心PCE年增3.3%；第三季GDP上修至年化4.3%，報導指市場押注聯準會12月會議升息。","source":"Goodreturns","url":"https://www.goodreturns.in/news/us-stock-market-holiday-today-november-26-dow-nasdaq-s-p-500-shut-thanksgiving-wall-street-outlook-1549901.html","theme":"rates","publishedAt":"2026-11-26T17:37:00+05:30"},
+{"title":"美股11/26感恩節休市，11/27提早收盤","fact":"美國紐約證交所與那斯達克11/26感恩節休市；11/27為半日交易，那斯達克美東下午1點收盤，因此今晨沒有新的美股收盤資料。","source":"Goodreturns","url":"https://www.goodreturns.in/news/us-stock-market-holiday-today-november-26-dow-nasdaq-s-p-500-shut-thanksgiving-wall-street-outlook-1549901.html","theme":"other","publishedAt":"2026-11-26T17:37:00+05:30"},
+{"title":"美國擬依301條款對14國加徵新關稅，台灣上限15%","fact":"美方以產能過剩為由，擬對中國、歐盟等14個貿易夥伴課新關稅；中國20%，台、日、韓、歐盟、瑞士含最惠國稅率上限15%，須待1/25公聽會後才生效。","source":"Reuters（BNN Bloomberg轉載）","url":"https://www.bnnbloomberg.ca/tariffs/2026/11/26/five-takeaways-from-trumps-new-tariffs/","theme":"trade","publishedAt":"2026-11-26T19:36:00Z"},
+{"title":"中國、日本等貿易夥伴抗議美國新關稅計畫","fact":"中國外交部反駁美方產能過剩的說法，日本等國也表達不滿；報導指美中貿易休戰已延至2027年1月10日，中國稅率屆時可能升至40%。","source":"AP（MPR News轉載）","url":"https://www.mprnews.org/story/2026/11/26/china-and-other-us-trading-partners-hit-back-at-trumps-new-tariff-plans","theme":"trade","publishedAt":"2026-11-26T09:36:00+08:00"},
+{"title":"美國國會推動晶片設備出口管制法案","fact":"在輝達晶片涉走私中國的指控後，國會推動MATCH法案，要求盟國比照美國限制晶片設備出口；報導指12/11預算期限可能使法案延至2027年。","source":"Wisevoter","url":"https://wisevoter.com/world/us/2026/11/26/congress-chip-export-controls-nvidia-smuggling","theme":"export","publishedAt":"2026-11-26T02:20:00Z"},
+{"title":"博通11/25盤中重挫近7%，收盤僅小跌","fact":"博通收300.86美元跌0.07%，盤中曾跌6.86%；報導提及AI支出疑慮、Google傳減少2027年TPU訂單及關稅計畫，股價仍比6月高點低約37.5%。","source":"JournalArta","url":"https://journalarta.com/en/2026/11/26/broadcom-shares-edge-down-as-late-rebound-trims-early-ai-selloff","theme":"company","publishedAt":"2026-11-25T21:42:00Z"},
+{"title":"金管會要求230家金融機構年底前完成14項資安自評","fact":"金管會11/26發布金融業資安強化措施，要求年底前完成14項自評並提報董事會，之後每季回報；重點含高權限帳號多因子驗證。","source":"經濟日報","url":"https://money.udn.com/money/story/5613/9904444","theme":"tw","publishedAt":"2026-11-26T21:11:00+08:00"},
+{"title":"多家金融機構客戶遭盜轉，金管會確認8家銀行通報","fact":"刑事局指22家金融機構客戶遭盜轉合計1,742萬元；金管會確認8家銀行通報重大偶發、財損約182萬元，另有1家券商疑似異常成交待調查。","source":"ETtoday","url":"https://finance.ettoday.net/news/3279106","theme":"tw","publishedAt":"2026-11-26T19:09:00+08:00"},
+{"title":"主動式ETF規模破1兆元，金管會研議新型態ETF","fact":"金管會統計10月底42檔主動式ETF規模約1兆217億元，整體ETF規模11.77兆元；已請證交所、櫃買研議新型態ETF制度，未定生效日。","source":"聯合報","url":"https://udn.com/news/story/123006/9904641","theme":"tw","publishedAt":"2026-11-27T03:29:00+08:00"}
+]}
